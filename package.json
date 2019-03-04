@@ -1,0 +1,18 @@
+{
+  "name": "minip-dream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:refactoring-now/minip-dream.git",
+  "author": "狂想录小程序分队",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.1.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.1.0",
+    "miniprogram-api-typings": "^2.4.2-2"
+  }
+}
